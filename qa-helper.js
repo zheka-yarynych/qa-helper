@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         QA Report Helper
+// @name         QA Helper
 // @namespace    https://github.com/zheka-yarynych/qa-helper
 // @version      0.12.0
 // @description  QA Report Helper
@@ -12,6 +12,8 @@
 // @match        http://mcd/admin_panel/reports/smartlink/*
 // @match        https://partners.clickdealer.com/admin_panel/reports/aggregated/*
 // @match        https://partners.clickdealer.com/admin_panel/reports/smartlink/*
+// @updateURL    https://raw.githubusercontent.com/zheka-yarynych/qa-helper/main/qa-helper.js
+// @downloadURL  https://raw.githubusercontent.com/zheka-yarynych/qa-helper/main/qa-helper.js
 // @run-at       document-idle
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
